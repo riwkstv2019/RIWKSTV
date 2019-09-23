@@ -1,8 +1,7 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TV ONLINE[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]CATEGORIAS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/6/items/fanart_20190919/filmes.png</thumbnail>
-<externallink>https://</externallink>
 <fanart>https://ia801502.us.archive.org/6/items/fanart_20190919/fanart.jpg</fanart>
 <info>
 
@@ -74,4 +73,18 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]NOTICIARIOS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia601502.us.archive.org/6/items/fanart_20190919/kids.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801502.us.archive.org/6/items/fanart_20190919/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- NOTICIARIOS -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
