@@ -24,15 +24,41 @@ by RIWKS TV ONLINE
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]A&E MUNDO [/COLOR]</title>
+<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]BAND NEWS [/COLOR]</title>
 <thumbnail>http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png</thumbnail>
-<link>http://edge.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_f2630d676e8e9d46a78afb2d2cfd13e7c71a9bf7/playlist.m3u8</link>
+<link>http://hvod.imirun.net:8080/Band-News-HD/tracks-v1a1/mono.m3u8</link>
 <fanart>https://ia801502.us.archive.org/6/items/fanart_20190919/fanart.jpg</fanart>
 <info>
 
 by RIWKS TV ONLINE
-[COLOR deeppink]l[/COLOR]- A&E MUNDO -[COLOR deeppink]l[/COLOR]</info>
+[COLOR deeppink]l[/COLOR]- BAND NEWS -[COLOR deeppink]l[/COLOR]</info>
 </item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<item>
+<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]RECORD NEWS [/COLOR]</title>
+<thumbnail>http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png</thumbnail>
+<link>http://hvod.imirun.net:8080/Record-News-HD/tracks-v1a1/mono.m3u8</link>
+<fanart>https://ia801502.us.archive.org/6/items/fanart_20190919/fanart.jpg</fanart>
+<info>
+
+by RIWKS TV ONLINE
+[COLOR deeppink]l[/COLOR]- RECORD NEWS -[COLOR deeppink]l[/COLOR]</info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<item>
+<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]RECORD NEWS [/COLOR]</title>
+<thumbnail>http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png</thumbnail>
+<link>http://hvod.imirun.net:8080/Record-News-HD/tracks-v1a1/mono.m3u8</link>
+<fanart>https://ia801502.us.archive.org/6/items/fanart_20190919/fanart.jpg</fanart>
+<info>
+
+by RIWKS TV ONLINE
+[COLOR deeppink]l[/COLOR]- RECORD NEWS -[COLOR deeppink]l[/COLOR]</info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
